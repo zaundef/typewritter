@@ -5,7 +5,7 @@ a simple jQuery plugin that mimic a type writter effect on any dom element.
 <h2>How to use this ?</h2>
 
 <ol>
-	<li>simply add a link to the typewritter.js or to the minified version in your html page</li>
+	<li>simply add a link to the typewritter.js file or to the minified version in your html page</li>
 	<li>initialize the dom element you want to apply the effect on with typewritter</li>
 </ol>
 
