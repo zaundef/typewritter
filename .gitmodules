@@ -1,0 +1,3 @@
+[submodule "grunt_tasks"]
+	path = grunt_tasks
+	url = git@github.com:zaundef/grunt_tasks
